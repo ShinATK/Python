@@ -3,7 +3,7 @@ from torch.utils.tensorboard import SummaryWriter
 from torchvision import transforms
 
 
-img_path = "dataset/train/ants/0013035.jpg"
+img_path = "data/train/ants/0013035.jpg"
 # Image是python中内置的默认打开图片的函数库
 img = Image.open(img_path)
 # print(img)

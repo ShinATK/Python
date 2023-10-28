@@ -9,7 +9,7 @@ img_array = np.array(img_PIL)
 print(type(img_array))
 print(img_array.shape)
 
-writer.add_image("test", img_array, 1, dataformats="HWC")
+writer.add_image("data", img_array, 1, dataformats="HWC")
 
 # y=2x
 for i in range(100):
