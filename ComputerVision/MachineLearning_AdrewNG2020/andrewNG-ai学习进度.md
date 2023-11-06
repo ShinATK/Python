@@ -1,0 +1,42 @@
+
+- [x] Course 1
+	- [x] Week 01
+		- [[【阅读笔记】w01 v02 Supervised Learning with Neural Networks]]
+		- [[【阅读笔记】w01 v03 Why is Deep Learning taking off]]
+	- [x] COURSE 1 Week 02
+		- [[2.1 二元分类]]
+		- [[2.2 Logistic Regression]]
+		- [[2.3 logistic 回归损失函数]]
+		- [[2.4 梯度下降法]]
+		- [[2.7 计算图 & 2.8 使用计算图求导]]
+		- [[2.9 logistic 回归中的梯度下降法]]
+		- [[2.10 m个样本的梯度下降]]
+		- [[2.13 向量化 logistic 回归]]
+		- [[2.14 向量化 logistic 回归的梯度输出]]
+		- [[2.15 Python 中的广播]]
+		- [[2.16 关于Pythn numpy 向量的说明]]
+		- [[2.17 Jupyter ipython 笔记本的快速指南]]
+		- [[2.18 logistic 损失函数的解释]]
+		- [[Logistic Regression with a Neural Network mindset]]
+	- [x] COURSE 1 Week 03
+		- [[3.1 神经网络概览]]
+		- [[3.2 神经网络表示]]
+		- [[3.3 计算神经网络的输出]]
+		- [[3.4 多个样本的向量化]]
+		- [[3.11 随机初始化]]
+	- [x] [[COURSE 1 Week 04]]
+		- [x] 4.1 深层神经网络
+		- [x] 4.2 前向和反向传播
+		- [x] 4.3 深层网络中的前向传播
+		- [x] 4.4 核对矩阵的维数
+		- [x] 4.5 为什么使用深层表示
+		- [x] 4.6 搭建深层神经网络块
+		- [x] 4.7 Parameters vs Hyperparameters
+		- [x] 4.8 What does this have to do with the brain?
+- [x] Course 2
+	- [[Course 2 Week 01]]
+	- [[Course 2 Week 02]]
+	- [[Course 2 Week 03]]
+- [ ] Course 3
+- [ ] Course 4
+- [ ] Course 5
